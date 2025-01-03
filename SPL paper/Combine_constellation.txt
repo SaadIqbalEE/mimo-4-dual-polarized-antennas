@@ -1,0 +1,10 @@
+Elapsed time is 165.994450 seconds.
+
+Silent features:
+-> 100k random bits.
+2 case senarios:
+	-> QPSK+QPSK 1x1 system
+	-> QPSK+PSK16 1x1 system
+#########################
+BER eavalution At:
+-> At 18 SNR Bins i.e. -4:2:30

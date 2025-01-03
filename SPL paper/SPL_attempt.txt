@@ -1,0 +1,5 @@
+Elapsed time is 46.582042 seconds.
+
+Silent features:
+-> 100k random bits
+-> At 18 SNR Bins i.e. -4:2:30
